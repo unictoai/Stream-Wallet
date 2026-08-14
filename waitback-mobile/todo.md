@@ -9,6 +9,6 @@
 - [x] Define marketplace-ready local data models and verification states
 - [x] Apply WaitBack branding, palette, and custom app icon configuration
 - [x] Add unit tests for ledger calculations and core task-state transitions
-- [ ] Validate TypeScript, linting, and core flows
-- [ ] Synchronize the finished source code to unictoai/Stream-Wallet on GitHub
+- [x] Validate TypeScript, linting, and core flows
+- [x] Synchronize the finished source code to unictoai/Stream-Wallet on GitHub
 - [x] Prepare a revenue strategy and long-term marketplace roadmap
