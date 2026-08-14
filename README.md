@@ -31,6 +31,10 @@ pnpm start
 
 To create native Android project files locally, run `pnpm prebuild:clean`; to make a signed APK/AAB, configure an Expo/EAS Android profile and signing credentials. The repository currently contains the source and export validation, not a signed release binary.
 
+## Download the Android APK
+
+The first GitHub-hosted test APK is available from [Stream Wallet v0.1.1](https://github.com/unictoai/Stream-Wallet/releases/tag/v0.1.1). Download [app-debug.apk](https://github.com/unictoai/Stream-Wallet/releases/download/v0.1.1/app-debug.apk) on an Android device, enable installation from the device’s chosen source when prompted, and install it. The matching [SHA-256 checksum](https://github.com/unictoai/Stream-Wallet/releases/download/v0.1.1/app-debug.apk.sha256) is published beside it. This is a debug/test build for the MVP, not a Play Store-signed production release.
+
 ## Before launch
 
 Use a distinct brand and original artwork. Verify every playable provider and title right, publish current privacy and terms pages, add a takedown contact, and do not market third-party playback as legal unless the provider rights have been reviewed. Google Play’s intellectual-property policy warns against unauthorized streaming and requires original or licensed app/store content: https://support.google.com/googleplay/android-developer/answer/9888072?hl=en.
